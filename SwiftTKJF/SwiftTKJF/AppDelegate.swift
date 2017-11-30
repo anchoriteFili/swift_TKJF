@@ -6,6 +6,14 @@
 //  Copyright © 2017年 赵宏亚. All rights reserved.
 //
 
+/* 相关链接
+ git链接地址：https://github.com/anchoriteFili/swift_TKJF
+ Reachability.swift 地址：https://github.com/ashleymills/Reachability.swift
+ SnapKit 地址：https://github.com/SnapKit/SnapKit
+ 
+
+*/
+
 import UIKit
 
 @UIApplicationMain

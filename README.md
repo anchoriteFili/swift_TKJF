@@ -1,5 +1,4 @@
-#[开始swift的基本学习](https://github.com/anchoriteFili/swift_TKJF "悬停提示")
-### 1. 使用pod导入所有用到的三方
+# 使用pod导入所有用到的三方
 用到的三方
 ```
 target 'SwiftTKJF' do
@@ -18,3 +17,6 @@ pod 'Moya/RxSwift'
 pod 'Masonry'
 pod 'DGElasticPullToRefresh'
 ```
+### ReachabilitySwift
+[git地址](https://github.com/ashleymills/Reachability.swift "悬停提示")
+这是一个网络判断的三方，用于网络判断。
